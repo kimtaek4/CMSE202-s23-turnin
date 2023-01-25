@@ -1,0 +1,4 @@
+each person will be assigned different part of coding and will work using github
+changes will be made and tracked by commits command
+what is the reason for the change and what was changed
+everyone should work on an individual branch and make sure the code is ok first then merge to the main branch.
